@@ -1,0 +1,10 @@
+thing,property,desc,alarm_time
+DG1Thing,BrgDE_Temp1,Too high,1704138240
+DG1Thing,BrgDE_Temp1,Too high,1704138300
+DG1Thing,BrgDE_Temp1,Too high,1704138360
+DG1Thing,BrgDE_Temp1,Too high,1704138420
+DG1Thing,BrgDE_Temp1,Too high,1704138480
+DG1Thing,BrgDE_Temp1,Too high,1704138540
+DG1Thing,BrgDE_Temp1,Too high,1704138600
+DG1Thing,BrgDE_Temp1,Too high,1704138660
+DG1Thing,BrgDE_Temp1,Too high,1704138720
